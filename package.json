@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.4.0",
+  "description": "Simple Web App",
+  "main": "filetest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-create/intro-to-node.git"
+  },
+  "author": "dave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dave-create/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/dave-create/intro-to-node#readme"
+}
